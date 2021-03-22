@@ -16,11 +16,11 @@ namespace SpatialGames
         // public void Adjacency()
         // {
 
-        //     for (int i = 0; i < 2; i++)
+        //      for (int i = 0; i < xCoor + 2; i++)
         //     {
-        //         for (int j = 0; j < 2; j++)
+        //         for (int j = 0; j <  yCoor + 2; j++)
         //         {
-        //             if(i == 2 && j == 2)
+        //             if(i == xCoor && j == yCoor)
         //             {
         //                 break;
         //             }
