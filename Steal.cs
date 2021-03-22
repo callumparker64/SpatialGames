@@ -3,14 +3,18 @@ namespace SpatialGames
     public class Steal
     {
         
-        private int xCoor;
-        private int yCoor;
+       public int xCoor {get; set;}
+        public int yCoor{get; set;}
+        public int Score {get; set;}
 
-        public Steal(int x,int y)
+        public Steal(int x,int y,int score)
         {
-            x = xCoor;
-            y = yCoor;
-
+            xCoor = x;
+            yCoor = y;
+            Score = score;
         }
+
+
+
     }
 }
