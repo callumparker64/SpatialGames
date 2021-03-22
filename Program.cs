@@ -5,7 +5,9 @@ namespace SpatialGames
     class Program
     {
         
-
+        //**
+        //2D Array of strategy classes
+        //
         static void Main(string[] args)
         {
             Test test = new Test();
