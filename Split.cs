@@ -34,7 +34,7 @@ namespace SpatialGames
         //             }
         //             else if(//adj is Steal)
         //             {
-        //                 Score = Score - 1;
+        //                 Score = Score - 3;
         //             }
         //             else if(//adj is TitForTat)
         //             {
